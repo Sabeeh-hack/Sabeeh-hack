@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmed 👋
+# Hi there, I'm Ahmed
 
 Computer Science & AI student passionate about building scalable systems, clean architecture, and products that solve real problems.
 

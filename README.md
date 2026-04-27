@@ -1,6 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ahmed 👋
 
-![Metrics](https://github.com/Sabeeh-hack/Sabeeh-hack/blob/main/github-metrics.svg)
+Computer Science & AI student passionate about building scalable systems, clean architecture, and products that solve real problems.
+
+I work across **Node.js**, **React**, **Flutter**, and explore **AI/automation** when I want to make machines do my homework (ethically).
+
+- ⚙️ Building APIs and backend systems
+- 📱 Developing cross-platform mobile apps
+- 🧠 Exploring software architecture, testing, and AI solutions
+- 🚀 Turning ideas into shipped projects
+
+I write code, optimize it, break it, fix it, and call that the development lifecycle.
+
+> "If it works first try, I don't trust it."
 
 <!--
 **Sabeeh-hack/Sabeeh-hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

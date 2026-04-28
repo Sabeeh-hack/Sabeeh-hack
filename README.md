@@ -9,7 +9,7 @@ I work across **Node.js**, **React**, **Flutter**, and explore **AI/automation**
 - 🧠 Exploring software architecture, testing, and AI solutions
 - 🚀 Turning ideas into shipped projects
 
-I write code, optimize it, break it, fix it, and call that the development lifecycle.
+I write code, optimize it, fix it(after i break it), and call that the development lifecycle.
 
 > "If it works first try, I don't trust it."
 
